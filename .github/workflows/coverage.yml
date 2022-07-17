@@ -31,6 +31,6 @@ jobs:
 
       - name: Upload coverage to code climate
         env:
-          CODECLIMATE_REPO_TOKEN: d9e98f1326242e103ed4811fdcd8deaf03d5a23f684fec56613e1746d80aec55
+          CODECLIMATE_REPO_TOKEN: be2d1e87c1071a6ae759652cbc688350a1953cd611cd4c944a04df613ccb41a6
         run: |
           codeclimate-test-reporter
