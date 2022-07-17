@@ -7,3 +7,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/2fd0df0932dc941a684d/maintainability)](https://codeclimate.com/github/wiv33/research-ci-tutorial/maintainability)
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/2fd0df0932dc941a684d/test_coverage)](https://codeclimate.com/github/wiv33/research-ci-tutorial/test_coverage)
+
