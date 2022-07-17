@@ -6,7 +6,7 @@ import main
 class MainTest(unittest.TestCase):
     def test_helloworld(self):
         result = main.helloworld("Test")
-        self.assertEquals('hello world! Chris', result)
+        self.assertEquals('hello world! test', result)
 
 
 if __name__ == '__main__':
